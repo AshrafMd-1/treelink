@@ -2,6 +2,7 @@
   "name": "Ashraf Mohammed",
   "bio": "A full-stack web developer specializing in the MERN stack, passionate about building clean, functional, and scalable web applications. Proficient in React, Node.js, Express, and MongoDB.",
   "url": "https://www.ashrafmd.work",
+  "profilePicture": "/profile-picture-main.jpg",
   "blog": false,
   "iconLinks": [
     {
